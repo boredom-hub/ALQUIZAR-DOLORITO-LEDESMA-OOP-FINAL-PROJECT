@@ -68,4 +68,6 @@ Classes and objects, inheritance (`extends JFrame`, abstract `StepFrame`), inter
 
 ## Authors
 
-Add your names here.
+Alquizar, John Dominiuqe 
+Dolorito, Vhelle Anthon
+Ledesma, Akinna
