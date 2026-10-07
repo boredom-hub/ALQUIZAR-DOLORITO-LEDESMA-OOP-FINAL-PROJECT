@@ -1,4 +1,3 @@
-// the results from FinancialAnalyzer.analyze()
 public class AnalysisResult {
 
     private boolean valid;
